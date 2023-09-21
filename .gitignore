@@ -1,0 +1,12 @@
+# Ignores idea folder
+.idea/
+
+# Ignores python cache
+__pycache__/
+
+icons/
+
+LICENSE
+setup.py
+software.txt
+README-00.md
